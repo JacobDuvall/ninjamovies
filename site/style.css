@@ -1,0 +1,230 @@
+/******************************************************************************/
+
+/* Modify this file to style the various elements in your site's web pages. */
+/* There are many CSS properties. Examples of common properties are below. */
+/* See https://www.w3schools.com/css/ for reference and help. */
+
+/* ***TODO: Whatever additions/changes you need to do to realize your design! */
+
+/******************************************************************************/
+/* Elements                                                                   */
+/******************************************************************************/
+
+/* For the entire body of a page. */
+body
+{
+    background-color: mediumpurple;
+    color: black;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+
+/* For images. */
+img
+{
+    /*box-shadow: 4px 4px 4px #606000; */
+}
+
+/* position images on page*/
+
+#TR {
+    position: relative;
+}
+#TR img {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+#TL {
+    position: relative;
+}
+#TL img {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+#BR {
+    position: float;
+}
+#BR img {
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}
+
+#BL {
+    position: float;
+}
+#BL img {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
+
+/* For buttons. */
+button
+{
+    color: blue;
+    cursor: pointer;
+    width: 120px;
+}
+
+/* For links. */
+/* See https://www.w3schools.com/css/css_pseudo_classes.asp */
+a:link
+{
+    color: blue;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+/* For links that have been visited (in the browser history). */
+a:visited
+{
+    color: blue;
+}
+
+/* For links while the pointer is hovering over them. */
+a:hover
+{
+    color: black;
+}
+
+/******************************************************************************/
+/* Classes                                                                    */
+/******************************************************************************/
+
+/* For the banner (information about the site itself). */
+.banner
+{
+    background-image: linear-gradient(to bottom, mediumpurple, mediumpurple);
+    /*border: 1px groove #e0e0e0; */
+    /*box-shadow: 4px 4px 4px #d0d0d0; */
+    padding: 20px 20px 20px 20px;
+
+    font-size: 40px;
+    text-align: center;
+}
+
+/* For the navigation bar (links to several mainstream movie-related sites). */
+.navbar
+{
+    font-size: 20px;
+    line-height: 25px;
+    margin: 8px 0px 8px 0px;
+    text-align: center;
+    
+}
+
+/* For the footer (site license information). */
+.footer
+{
+    /*border: 1px dashed #e0e0e0; */
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    height:30px;
+    width:100%;
+    font-size: 20px;
+    text-align: center;
+    background:#999;
+}
+
+
+
+/* For the sidebar (filters to go with the accordion). */
+.sidebar
+{
+    /*border: 1px dashed #e0e0e0; */
+    text-align: center;
+}
+
+/* For the accordion (central view of movies in the collection). */
+.accordion
+{
+   /* border: 1px dashed #e0e0e0; */
+
+}
+
+/* For items in the accordion. */
+.item-overall
+{
+    border: 1px solid black;
+    margin: 0px 460px 0px 460px;
+}
+
+/* For the summary part of accordion items. */
+.item-summary
+{
+    background-color: white;
+}
+
+.item-summary:hover
+{
+    background-color: lightblue;
+}
+
+/* For the details part of accordion items. */
+.item-details
+{
+    background-color: white;
+    text-align: left;
+}
+
+/******************************************************************************/
+/* Special                                                                    */
+/******************************************************************************/
+
+/* For the warning that appears at the top when JavaScript is turned off. */
+.warning
+{
+    background-color: #ffff80;
+    color: #ff4040;
+    font-size: 15px;
+    font-style: italic;
+    text-align: center;
+    padding: 4px 0px 4px 0px;
+}
+
+/* purple box info page */
+#demobox {
+    background-color: purple ;
+    padding: 100px ;
+    margin: 0px 300px 0px 300px;
+    border: 1px solid green ;
+}
+
+/* mintcream box info page */
+#demobox2 {
+    background-color: mintcream ;
+    padding-right: 100px ;
+    margin: 0px 0px 0px 0px;
+    border: 1px solid green ;
+    
+}
+
+/* center IMDB link */
+
+#left1 {
+    text-align: center;
+}
+
+/* main page grey box */
+#right1 {
+    background-color: lightgrey;
+    padding-right: 100px ;
+    margin: 0px 0px 0px 170px;
+    border: 1px solid green ;
+    text-align: left;
+    border: 10px black;
+}
+
+/* align the an3 */
+
+#AN3 {
+    text-align: left;
+}
+
+/******************************************************************************/

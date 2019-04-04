@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DATA>
+
+  <ITEM>
+    <ID>American Ninja</ID>
+    <IMDB>tt0088708</IMDB>
+    <TITLE>American Ninja</TITLE>
+    <GENRE>Badass Ninja Movie</GENRE>
+    <DESCRIPTION>American soldier, obviously very skilled in martial arts, single-handedly takes on mercenaries in the Philippines.</DESCRIPTION>
+    <YEAR>1985</YEAR>
+    <DURATION>1:35:00</DURATION>
+  </ITEM>
+
+  <ITEM>
+    <ID>American Ninja 2</ID>
+    <IMDB>tt0092548</IMDB>
+    <TITLE>American Ninja 2: The Confrontation</TITLE>
+    <GENRE>Badass Ninja Movie</GENRE>
+    <DESCRIPTION>On a remote Caribbean island, Army Ranger Joe Armstrong investigates the disappearance of several marines, which leads him to The Lion, a super-criminal who has kidnapped a local scientist and mass-produced an army of mutant Ninja warriors.</DESCRIPTION>
+    <YEAR>1987</YEAR>
+    <DURATION>1:30:00</DURATION>
+  </ITEM>
+
+  <ITEM>
+    <ID>American Ninja 3</ID>
+    <IMDB>tt0096804</IMDB>
+    <TITLE>American Ninja 3: Blood Hunt</TITLE>
+    <GENRE>Badass Ninja Movie</GENRE>
+    <DESCRIPTION>Jackson is back, and now he has a new partner, karate champion Sean, as they must face a deadly terrorist known as The Cobra, who has infected Sean with a virus. Sean and Jackson have no choice but to fight the Cobra and his bands of ninjas.</DESCRIPTION>
+    <YEAR>1989</YEAR>
+    <DURATION>1:29:00</DURATION>
+  </ITEM>
+
+  <ITEM>
+    <ID>American Ninja 4</ID>
+    <IMDB>tt0101326</IMDB>
+    <TITLE>American Ninja 4: The Annihilation</TITLE>
+    <GENRE>Badass Ninja Movie</GENRE>
+    <DESCRIPTION>The two American Ninjas, Joe Armstrong and Sean Davidson, team up to do battle against a terrorist and his band of Ninjas.</DESCRIPTION>
+    <YEAR>1990</YEAR>
+    <DURATION>1:39:00</DURATION>
+  </ITEM>
+  
+  <ITEM>
+      <ID>American Ninja 5</ID>
+      <IMDB>tt0379786</IMDB>
+      <TITLE>American Ninja 5</TITLE>
+      <GENRE>Badass Ninja Movie</GENRE>
+      <DESCRIPTION>When a scientists daughter is kidnapped, American Ninja (David Bradley), attempts to find her, but this time he teams up with a youngster he has trained in the ways of the ninja.</DESCRIPTION>
+      <YEAR>1993</YEAR>
+      <DURATION>1:42:00</DURATION>
+  </ITEM>
+
+</DATA>
